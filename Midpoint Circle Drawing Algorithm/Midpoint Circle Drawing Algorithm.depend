@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644233584 source:d:\semester\computer graphics\graphics-algorithms\midpoint circle drawing algorithm\main.cpp
+	<iostream>
+	<graphics.h>
+
